@@ -13,6 +13,9 @@ class MainActivity : AppCompatActivity() {
         println("Experimental")
 
         print("CHANGE 2")
+        println("Hello from your friend")
+        println("Hello from your friend1")
+        println("Hello from your friend2")
     }
 
 
